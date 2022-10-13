@@ -5,7 +5,6 @@
  * main - Entry point
  *
  *Return Always 1 (Success)
- *success
 */
 
 int main(void)
