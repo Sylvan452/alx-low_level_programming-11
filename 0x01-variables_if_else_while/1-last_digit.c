@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
 /**
  * main - entry
  *
- * Reture: Alway 0
+ * Return: Alway 0
 */
 int main(void) /*main fuction*/
 {
