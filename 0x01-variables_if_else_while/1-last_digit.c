@@ -6,7 +6,7 @@
  * main - entry
  * Reture: Alway 0
 */
-int main(void)
+int main(void) /*main fuction*/
 {
 	int n;
 	int a;
