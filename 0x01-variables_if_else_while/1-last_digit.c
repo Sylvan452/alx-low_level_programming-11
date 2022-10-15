@@ -4,6 +4,7 @@
 
 /**
  * main - entry
+ *
  * Reture: Alway 0
 */
 int main(void) /*main fuction*/
@@ -19,7 +20,7 @@ int main(void) /*main fuction*/
 	{
 		printf("last digit of %d is %d and is greater than 5\n", n, a);
 	}
-	else if (a == -1)
+	else if (a == 0)
 	{
 		printf("Last digit of %d is %d and is 0\n", n, a);
 	}
