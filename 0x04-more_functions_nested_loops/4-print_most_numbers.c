@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *print_most_numbers - print numbers, from 0 to 9
+ *print_most_numbers - print
  *written by sylva
  *Return: void
 */
